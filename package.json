@@ -10,11 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/Jessicapapidim/intro-java-script.git"
   },
-  "keywords": ["javascript","node"],
+  "keywords": [
+    "javascript",
+    "node"
+  ],
   "author": "jessicacmmorales",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Jessicapapidim/intro-java-script/issues"
   },
-  "homepage": "https://github.com/Jessicapapidim/intro-java-script#readme"
+  "homepage": "https://github.com/Jessicapapidim/intro-java-script#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
